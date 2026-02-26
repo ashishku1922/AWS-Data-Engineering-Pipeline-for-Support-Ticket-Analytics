@@ -64,7 +64,7 @@ OLTP Source → S3 Data Lake → Lambda / Glue Transformations → Redshift Ware
 
 ### Support Logs Overview
 
-![Support Logs Dashboard](data-warehousing-analytics/dashboard/Logs Insights.png)
+![Support Logs Dashboard](data-warehousing-analytics/dashboard/logs_insights.png)
 
 Key Metrics:
 - Total Logs
@@ -78,7 +78,7 @@ Key Metrics:
 
 ### Ticket Insights Dashboard
 
-![Ticket Insights Dashboard](data-warehousing-analytics/dashboard/Ticket Insights.png)
+![Ticket Insights Dashboard](data-warehousing-analytics/dashboard/ticket_insights.png)
 
 Key Metrics:
 - Total Tickets
